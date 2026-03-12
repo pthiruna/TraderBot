@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE / local config
+.claude/
+
+# macOS
+.DS_Store
+
+# Execution outputs (regenerated at runtime)
+data/execution_output/

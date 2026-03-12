@@ -1,0 +1,1 @@
+Important: Every prompt i enter should be appended to /plan/prompts.md  file with the timestamp of when the prompt was entered. 
